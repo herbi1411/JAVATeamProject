@@ -10,5 +10,5 @@ ___
 ## 실행화면
 
 
-![슬라이드1](https://user-images.githubusercontent.com/51146802/139523695-4647451f-a32d-4a79-a3de-c266a89260f5.JPG)
-![슬라이드2](https://user-images.githubusercontent.com/51146802/139523696-95932ddb-f54c-4681-82ee-98a5606fe5c4.JPG)
+![슬라이드1](https://user-images.githubusercontent.com/51146802/139523718-6b31e5c0-52b2-4473-b88a-3e9da152a296.JPG)
+![슬라이드2](https://user-images.githubusercontent.com/51146802/139523720-e06553a9-a446-45c1-a85e-5a28cf570ad6.JPG)

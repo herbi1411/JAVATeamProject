@@ -9,5 +9,6 @@ https://github.com/harheem/JavaMaple
 ___
 ## 실행화면
 
-![슬라이드1](https://user-images.githubusercontent.com/51146802/139523666-ab362075-4195-4b76-9416-fad50a3b6d2d.JPG)
-![슬라이드2](https://user-images.githubusercontent.com/51146802/139523667-0a6a8229-c81d-4b50-be19-1033f586e9e7.JPG)
+
+![슬라이드1](https://user-images.githubusercontent.com/51146802/139523695-4647451f-a32d-4a79-a3de-c266a89260f5.JPG)
+![슬라이드2](https://user-images.githubusercontent.com/51146802/139523696-95932ddb-f54c-4681-82ee-98a5606fe5c4.JPG)
